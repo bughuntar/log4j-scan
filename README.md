@@ -8,6 +8,7 @@ sudo git clone https://github.com/fullhunt/log4j-scan.git && cd log4j-scan && su
 ```
 
 **Scan:**
+
 Scan a Single URL using all Request Methods: GET, POST (url-encoded form), POST (JSON body)
 ```javascript
 python3 log4j-scan.py -u https://log4j.lab.secbot.local --run-all-tests

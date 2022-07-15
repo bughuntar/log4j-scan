@@ -4,5 +4,5 @@ A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-202
 
 
 ```javascript
-sudo git clone https://github.com/fullhunt/log4j-scan.git && cd log4j-scan && sudo chmod +x * && sudo pip3 install requirements.txt
+sudo git clone https://github.com/fullhunt/log4j-scan.git && cd log4j-scan && sudo chmod +x * && sudo pip3 install -r requirements.txt
 ```
